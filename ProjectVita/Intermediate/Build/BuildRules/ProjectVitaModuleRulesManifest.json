@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\Vita\\ProjectVita\\Source\\ProjectVita\\ProjectVita.Build.cs",
+		"D:\\GitHub\\Vita\\ProjectVita\\Source\\ProjectVita.Target.cs",
+		"D:\\GitHub\\Vita\\ProjectVita\\Source\\ProjectVitaEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\github\\vita\\projectvita\\intermediate\\build\\win64\\unrealeditor\\inc\\projectvita\\projectvitaprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\vita\\projectvita\\intermediate\\build\\win64\\projectvitaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\github\\vita\\projectvita\\intermediate\\build\\win64\\unrealeditor\\development\\projectvita\\definitions.projectvita.h",
+            "d:\\github\\vita\\projectvita\\source\\projectvita\\projectvitaprojectile.h",
+            "d:\\github\\vita\\projectvita\\intermediate\\build\\win64\\unrealeditor\\inc\\projectvita\\projectvitaprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

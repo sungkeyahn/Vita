@@ -74,10 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *_BuiltData.uasset
 
-/Content/FirstPerson
-/Content/FirstPersonArms
-/Content/FPWeapon
-/Content/LevelPrototyping
-/Content/StarterContent
-/Content/__ExternalObjects__
-/Content/__ExternalActors__
+ProjectVita/Content/FirstPerson
+ProjectVita/Content/FirstPersonArms
+ProjectVita/Content/FPWeapon
+ProjectVita/Content/LevelPrototyping
+ProjectVita/Content/StarterContent

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectVita",
+			"Path": "D:\\GitHub\\Vita\\ProjectVita\\Source\\ProjectVita.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectVitaEditor",
+			"Path": "D:\\GitHub\\Vita\\ProjectVita\\Source\\ProjectVitaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

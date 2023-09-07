@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\github\\vita\\projectvita\\source\\projectvita\\tp_weaponcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\vita\\projectvita\\intermediate\\build\\win64\\projectvitaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\github\\vita\\projectvita\\intermediate\\build\\win64\\unrealeditor\\development\\projectvita\\definitions.projectvita.h",
+            "d:\\github\\vita\\projectvita\\source\\projectvita\\tp_weaponcomponent.h",
+            "d:\\github\\vita\\projectvita\\intermediate\\build\\win64\\unrealeditor\\inc\\projectvita\\tp_weaponcomponent.generated.h",
+            "d:\\github\\vita\\projectvita\\source\\projectvita\\projectvitacharacter.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\github\\vita\\projectvita\\intermediate\\build\\win64\\unrealeditor\\inc\\projectvita\\projectvitacharacter.generated.h",
+            "d:\\github\\vita\\projectvita\\source\\projectvita\\projectvitaprojectile.h",
+            "d:\\github\\vita\\projectvita\\intermediate\\build\\win64\\unrealeditor\\inc\\projectvita\\projectvitaprojectile.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
